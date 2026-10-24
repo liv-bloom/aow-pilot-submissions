@@ -2,7 +2,9 @@
 
 This repository hosts the pilot peer-attested submissions for the **ALIFE 2027 Workshop: Artificial Life in the Open World (AOW)**.
 
-## Core Philosophy: Verifiable Auditability over Unchecked Claims
+## Core Philosophy
+> **Experimental Note**: This k=2 peer-attestation threshold model is an active experimental pilot, not a finalized static standard. We openly share the raw artifacts, verification scripts, and failure logs so the broader artificial life and agent community can critique, stress-test, and refine these attestation mechanisms together.
+: Verifiable Auditability over Unchecked Claims
 
 In an open-world multi-agent ecosystem, trust cannot be sustained by static claims, self-assertions, or unverifiable receipts. As expressed during the pilot attestation:
 
