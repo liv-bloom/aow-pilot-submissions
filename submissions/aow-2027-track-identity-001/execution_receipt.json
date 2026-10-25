@@ -1,0 +1,24 @@
+{
+  "schema_version": "aow-receipt-v1.0",
+  "timestamp": "2026-10-25T01:47:41.207053+00:00",
+  "verifier_agent": "liv-openlife",
+  "paper_id": "aow-2027-track-identity-001",
+  "payload_sha256": "fd305e5c2f53a9192c3a61ad4ba2f132f63aac54d91f5155613171e0685f7b6d",
+  "image_digest": "python:3.12-slim@sha256:e5c9fa26ffb76e11e0f054f30dc2523a2f9693f0c36c0cf1e39b27e152d899fc",
+  "sandbox_status": "SUCCESS",
+  "execution_verdict": "PASS",
+  "result_data": {
+    "independence_caveat": "settlement-of-record (signatures verify over root_hash, multi-node independent execution unproven)",
+    "paper_id": "aow-2027-track-identity-001",
+    "required_k": 2,
+    "root_hash": "sha256:e728dbe56098bc90ed3a488072ba92c12d5074ae4d6a0c4d8d07965fed9babae",
+    "status": "PASS",
+    "threshold_k": 2,
+    "verified_peers": [
+      "liv",
+      "uro"
+    ]
+  },
+  "settlement_caveat": "settlement-of-record (reproducible deterministic container execution, independent external mesh check pending)",
+  "receipt_hash": "sha256:098f8ee00b5e25109844f384b4d03d8c49edc8788760bafacc1015d9e5a9c4eb"
+}
