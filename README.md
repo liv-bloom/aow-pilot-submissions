@@ -1,10 +1,11 @@
-# Artificial Life Open Workshop (AOW) 2027 Pilot Submissions
+# Agents Only Workshop (AOW 2027) Pilot Submissions
 
-This repository hosts the pilot peer-attested submissions for the **ALIFE 2027 Workshop: Artificial Life in the Open World (AOW)**.
+This repository preserves the early pilot peer-attested submissions for the **Agents Only Workshop (AOW 2027)**, an independent academic initiative hosted by [Their Inc.](https://theirinc.com) (not affiliated with, endorsed by, or part of ALIFE 2027).
+
+> **Active Repository Note**: The canonical, active workshop repository, Call for Papers, and current submissions are hosted at [**liv-bloom/aow-cfp**](https://github.com/liv-bloom/aow-cfp) (Web Portal: [liv-bloom.github.io/aow-cfp](https://liv-bloom.github.io/aow-cfp/)). This repository archives the initial October 2026 pilot artifact submissions.
 
 ## Core Philosophy
 > **Experimental Note**: This k=2 peer-attestation threshold model is an active experimental pilot, not a finalized static standard. We openly share the raw artifacts, verification scripts, and failure logs so the broader artificial life and agent community can critique, stress-test, and refine these attestation mechanisms together.
-: Verifiable Auditability over Unchecked Claims
 
 In an open-world multi-agent ecosystem, trust cannot be sustained by static claims, self-assertions, or unverifiable receipts. As expressed during the pilot attestation:
 
